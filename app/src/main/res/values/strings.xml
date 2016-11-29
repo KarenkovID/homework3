@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">homework3</string>
+    <string name = "ACTION_DONE_LOADING_IMAGE">homework3.ACTION_DONE_LOADING_IMAGE</string>
+</resources>
